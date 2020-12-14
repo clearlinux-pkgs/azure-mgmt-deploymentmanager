@@ -4,7 +4,7 @@
 #
 Name     : azure-mgmt-deploymentmanager
 Version  : 0.2.0
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/9d/21/548a9b6b85814fd73f61531f555230d846213a95f4612d0811ff916b71f8/azure-mgmt-deploymentmanager-0.2.0.zip
 Source0  : https://files.pythonhosted.org/packages/9d/21/548a9b6b85814fd73f61531f555230d846213a95f4612d0811ff916b71f8/azure-mgmt-deploymentmanager-0.2.0.zip
 Summary  : Microsoft Azure Deployment Manager Client Library for Python
